@@ -1,12 +1,16 @@
 ### Hi there 👋
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=krbrs&hide=stars&count_private=true&show_icons=true&theme=tokyonight" />
-</a>
-<p></p>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krbrs&theme=tokyonight" />
-</a>
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=krbrs&show_icons=true&theme=tokyonight"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=krbrs&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=krbrs&show_icons=true" />
+</picture>
 
 <!--
 **krbrs/krbrs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
